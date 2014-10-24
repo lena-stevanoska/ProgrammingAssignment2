@@ -3,7 +3,7 @@
 ## with the initial matrix, then the cacheSolve to find its inverse matrix
 ## On the second call of the cacheSolve matrix the message "getting cached data" is displayed 
 ## before displaying the inverse matrix. And this is repetead on every execution of the 
-## cacheSolve until the macaCacheMAtrix is called again to change the value of the matrix
+## cacheSolve until the macaCacheMatrix is called again to change the value of the matrix
 
 ##  makeCacheMatrix: This function creates a special "matrix" object that can cache its inverse.
 ## It consists of definition of a variable to store the inverse of the matrix and 
